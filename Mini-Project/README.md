@@ -1,7 +1,4 @@
-Run these queries in same sequence:
-
-
-
+# Run these queries in same sequence:
 CREATE DATABASE QuizApp;
 
 Use QuizApp;
