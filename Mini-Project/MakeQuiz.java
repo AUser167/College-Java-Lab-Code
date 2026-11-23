@@ -61,7 +61,7 @@ class MakeQuiz {
 		question = sc.nextLine();
 		
 		for (int i = 0 ; i < 4; i++) {
-			System.out.print("Enter option " + i + 1 + ": ");
+			System.out.print("Enter option " + (i + 1) + ": ");
 			options[i] = sc.nextLine();
 			
 			System.out.print("Type 1 if correct: ");
